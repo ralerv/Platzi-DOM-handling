@@ -1,0 +1,3 @@
+[submodule "workshop-1-fetch"]
+	path = workshop-1-fetch
+	url = ./workshop-1-fetch/.git/
