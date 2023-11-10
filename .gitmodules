@@ -1,3 +1,6 @@
 [submodule "workshop-1-fetch"]
 	path = workshop-1-fetch
 	url = https://github.com/ralerv/Platzi-DOM-handling-workshop-1
+[submodule "workshop-2-Lazy-loading"]
+	path = workshop-2-Lazy-loading
+	url = https://github.com/ralerv/random-cat-img-n-fact
